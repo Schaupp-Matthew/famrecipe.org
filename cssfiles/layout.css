@@ -1,0 +1,159 @@
+/*Logo styling*/
+#logo {
+	width: 345px;
+	height: 125px;
+	padding: 10px;
+	float: left;
+}
+
+/*Navigation styling*/
+#navigation {
+	width: 800px;
+	height: 125px;
+	background-color: #006469;
+	float: right;
+}
+
+/*Nav link fonts and colors*/
+a.nav {
+	background-color: none;
+	color: #ffffff;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 24px;
+	font-weight: black;
+	text-decoration: none;
+}
+
+a.nav:hover {
+	color: #000000;
+	font-size: 32px;
+	text-decoration: underline;
+}
+
+/*Home page caption styling*/
+#hpcaption {
+	text-align: center;
+	vertical-align: middle;
+}
+
+hgroup:first-letter {
+	font-size: 200%;
+	font-weight: black;
+}
+
+/*Body fonts and colors*/
+body {
+	background-color: #ffffff;
+	color: #000000;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+/*Main fonts and colors*/
+main {
+	background-color: #d5f1f2;
+	color: #000000;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+/*Page title styling*/
+#pagename {
+	background-color: #ffffff;
+	color: #2f8488;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 64px;
+	font-weight: black;
+	text-transform: uppercase;
+	text-decoration: overline;
+	text-decoration: underline;
+	text-shadow: 2px 2px 7px #111111; 
+	word-spacing: .5em;
+	
+}
+
+/*Article styling*/
+article {
+	background-color: #ffffff;
+	color: #000000;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+/*Content block styling*/
+
+/*Aside styling*/
+aside {
+	background-color: #d5f1f2;
+	color: #ffffff;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+/*Footer styling*/
+footer {
+	background-color: #006469;
+	color: #ffffff;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+/*Paragraph fonts and colors*/
+p {
+	background-color: #ffffff;
+	color: #000000;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.5em;
+}
+
+/*Headings fonts and colors*/
+
+
+/*Link fonts and colors*/
+a.link {
+	background-color: #ffffff;
+	color: #2f8488;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+a.link:hover {
+	color: #000000;
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+	color: #006469;
+	text-transform: capitalize;
+}
+
+h6 {
+	color: #006469;
+	font-style: italic;
+	text-transform: capitalize;
+}
+
+/*Image left styling*/
+/*
+img.left {
+	float: left;
+	padding: 10px;
+}
+*/
+
+/*Image right styling*/
+/*
+img.right {
+	float: right;
+	padding: 10px;
+}
+*/
